@@ -1,5 +1,6 @@
-[
-{"bar1" : {
+
+{
+  "bar1" : {
   "labels": [
       "January", "February", "March", "April", "May", "June", "July",
       "August", "September", "October", "November", "December"
@@ -46,55 +47,6 @@
         55, 22, 70, 89, 70, 17 , 0 ]
     }
   ]
+  }
 }
-},
-{"bar2" : {
-  "labels": [
-     "April", "May", "June", "July",
-      "August", "September", "October", "November", "December"
-  ],
-  "datasets": [
-    {
-      "label": "Products",
-      "backgroundColor": "#ff6284",
-      "borderColor": "rgba(255,99,132,0)",
-      "borderWidth": 1,
-      "hoverBackgroundColor": "rgba(255,99,132,0.4)",
-      "hoverBorderColor": "rgba(255,99,132,1)",
-      "data": [ 81, 56, 62,
-        55, 40, 60, 43, 60, 70 ,0 ]
-    },
-    {
-      "label": "Marketing",
-      "backgroundColor": "#f2957a",
-      "borderColor": "rgba(255,99,132,0)",
-      "borderWidth": 1,
-      "hoverBackgroundColor": "rgba(255,99,132,0.4)",
-      "hoverBorderColor": "rgba(255,99,132,1)",
-      "data":  [31, 56, 42,
-        35, 90, 60, 53, 40, 40 , 0 ]
-    },
-    {
-      "label": "Sales",
-      "backgroundColor": "#ffb355",
-      "borderColor": "rgba(255,99,132,0)",
-      "borderWidth": 1,
-      "hoverBackgroundColor": "rgba(255,99,132,0.4)",
-      "hoverBorderColor": "rgba(255,99,132,1)",
-     "data": [66, 33, 77,
-        35, 90, 50, 53, 50, 60 , 0 ]
-    },
-    {
-      "label": "Services",
-      "backgroundColor": "#cf80ca",
-      "borderColor": "rgba(255,99,132,0)",
-      "borderWidth": 1,
-      "hoverBackgroundColor": "rgba(255,99,132,0.4)",
-      "hoverBorderColor": "rgba(255,99,132,1)",
-      "data": [71, 86, 42,
-        55, 22, 70, 89, 70, 17 , 0 ]
-    }
-  ]
-}
-}
-]
+
