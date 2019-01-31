@@ -1,4 +1,4 @@
-"bar1": {
+"bar1": [
   "labels": [
       "January", "February", "March", "April", "May", "June", "July",
       "August", "September", "October", "November", "December"
@@ -45,8 +45,8 @@
         55, 22, 70, 89, 70, 17 , 0 ]
     }
   ]
-},
-"bar2": {
+],
+"bar2": [
   "labels": [
       "January", "February", "March", "April", "May", "June", "July",
       "August", "September", "October", "November", "December"
@@ -93,5 +93,5 @@
         55, 22, 70, 89, 70, 17 , 0 ]
     }
   ]
-}
+]
 
